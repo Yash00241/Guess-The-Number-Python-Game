@@ -23,6 +23,6 @@ Clone the repository.
 Copy the file to desktop.
 Run the file and game would start.
 
-# OR
+                                         OR
 
 Go to https://yash00241.itch.io/guess-the-number and downloaad the file and run it :)
